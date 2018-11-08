@@ -308,6 +308,15 @@ b, strong { font-weight: bold; }
 	/* Required */
 	span.required { color: #22eedd; }
 
+span.a {
+    display: inline-block;
+    width: 200px;
+    padding: 5px; 
+}
+
+span.b {
+    display: inline-block;
+}
 
 
 	/* Page elements */
